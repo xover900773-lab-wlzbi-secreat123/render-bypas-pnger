@@ -1,0 +1,19 @@
+# Telegram bot configuration
+BOT_TOKEN=
+ADMIN_IDS=
+
+# Ping engine configuration
+PING_INTERVAL=10
+MAX_CONCURRENT_PINGS=20
+REQUEST_TIMEOUT=10
+SLOW_RESPONSE_THRESHOLD_MS=2000
+
+# Optional storage configuration
+DATA_FILE=urls.json
+LOG_FILE=activity.log
+MAX_LOG_ENTRIES=1000
+
+# Example:
+# ADMIN_IDS=123456789,987654321
+
+# Never commit a real BOT_TOKEN.
