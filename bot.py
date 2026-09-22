@@ -10,7 +10,7 @@ import threading
 from dotenv import load_dotenv
 load_dotenv()
 TOKEN=os.getenv('BOT_TOKEN')
-ADMIN_ID=7282835498
+ADMIN_ID=8712146330
 PING_INTERVAL=40
 DATA_FILE='wlzbi_users.json'
 SEP='━━━━━━━━━━━━━━━━━━━'
